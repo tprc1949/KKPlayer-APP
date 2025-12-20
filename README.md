@@ -19,9 +19,3 @@
 * 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
 * 资源站接口参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-## 体验
-
-### KKPlayer [下载](https://github.com/npljy/KKPlayer-APP/releases)
-
-### KKPlayer最小额度赞助方法
-[点击查看](https://github.com/vfdeclnc/KKPlayer-APP/blob/main/bug-vip.md)
